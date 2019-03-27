@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is FEC7-D081
+
+ Directory of D:\My project
+
+03/27/2019  08:29 AM    <DIR>          .
+03/27/2019  08:29 AM    <DIR>          ..
+03/27/2019  08:29 AM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  66,526,928,896 bytes free
